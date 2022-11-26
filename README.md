@@ -23,7 +23,7 @@
 </div>
 
 ## My activity:
-![contrib graph](./profile-3d-contrib/profile-night-rainbow.svg)
+![contrib graph](./profile-3d-contrib/profile-night-view.svg)
 
 <!--
 **Venec0/Venec0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
