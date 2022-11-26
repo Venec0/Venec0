@@ -1,10 +1,26 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There+;I+am+Joel+Medina...;Nice+To+Meet+You!&centertrue&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+✌+😃;I'm+Joel+Medina...;It's+my+pleassure+to+meet+you+all!&center=true&size=19">
   </a>
 </h1>
+
+<h3 align="center">Computer Engineering Student At Duoc UC
+</h3>
+<p align="center">
+-I’m currently learning Java and also some of SQL. 😉
+  </p>
+<p align="center">
+-Stay Tunned! 😄
+  </p>
+<hr>
+<br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venec0&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+## Things I'm into:
+
+<div align=center>
+  <a href="https://github.com/Venec0/github-readme-stats"><img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venec0&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
 
 ## My activity:
 ![contrib graph](./profile-3d-contrib/profile-night-rainbow.svg)
