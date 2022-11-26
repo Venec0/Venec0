@@ -9,7 +9,8 @@
 ## My activity:
 ![contrib graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Venec0=Profile%20views&color=0e75b6&style=flat" alt="Venec0" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Venec0=Profile%20views&color=0e75b6&style=flat" alt="Venec0"/> 
+</p>
 
 <!--
 **Venec0/Venec0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
