@@ -7,7 +7,7 @@
 <h3 align="center">Computer Engineering Student At Duoc UC
 </h3>
 <p align="center">
--I’m currently learning Java and also some of SQL. 😉
+-I’m currently learning HTML, CSS but also SQL. 😉
   </p>
 <p align="center">
 -Stay Tunned! 😄
