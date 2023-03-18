@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3 align="center">Computer Engineering Student At Duoc UC
+<h3 align="center">Web Development Student At Duoc UC
 </h3>
 <p align="center">
 -I’m currently learning HTML, CSS but also SQL. 😉
